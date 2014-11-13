@@ -1017,6 +1017,8 @@ StringTable climate
 		{ String _name = "Mild";			String _text = "Mild"; }
 		{ String _name = "Fair";			String _text = "Fair"; }
 		{ String _name = "Harsh";			String _text = "Harsh"; }
+        { String _name = "Siberian";        String _text = "Siberian"; }
+        { String _name = "Tropical";        String _text = "Tropical"; }
         { String _name = "Freezing";		String _text = "Freezing"; }
 	]
 }
